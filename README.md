@@ -9,4 +9,4 @@ I'm going to use  "cherry-pick", a "pull" with the --rebase, and HEAD with synta
 #### TASK 1
 
 1. Linux Command Line Basics
-![Linux Command Line Basics](task_1/1.Linux cmd.png)
+![course_1](task_1/1.png)

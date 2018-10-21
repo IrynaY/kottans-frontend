@@ -7,3 +7,6 @@ I was surprised at how simple I can change the order of commits.
 I'm going to use  "cherry-pick", a "pull" with the --rebase, and HEAD with syntax to switch between commits
 
 #### TASK 1
+
+1. Linux Command Line Basics
+![Linux Command Line Basics](task_1/1.Linux cmd.png)

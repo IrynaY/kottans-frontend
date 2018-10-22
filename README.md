@@ -10,3 +10,6 @@ I'm going to use  "cherry-pick", a "pull" with the --rebase, and HEAD with synta
 
 1. Linux Command Line Basics
 ![course_1](task_1/1.png)
+
+2. Configuring Linux Web Servers
+![course_2](task_1/2.png)

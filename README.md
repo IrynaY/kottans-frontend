@@ -8,8 +8,13 @@ I'm going to use  "cherry-pick", a "pull" with the --rebase, and HEAD with synta
 
 #### TASK 1
 
+In this lesson, I learned the basic cli commands, Linux roles and privilege,  protocol layers interaction principle.
+
 1. Linux Command Line Basics
 ![course_1](task_1/1.png)
 
 2. Configuring Linux Web Servers
 ![course_2](task_1/2.png)
+
+3. Networking for Web Developers
+![course_3](task_1/3.png)

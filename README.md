@@ -14,3 +14,8 @@ In this lesson, I repeated the basic cli commands,how to change permissions for 
 
 ![course_1](task_git_collaboration/1.png)
 ![course_2](task_git_collaboration/2.png)
+
+## Intro to HTML and CSS
+
+![course_1](task_git_html_css_intro/1.png)
+![course_2](task_git_html_css_intro/2.png)

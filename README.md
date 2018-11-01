@@ -21,3 +21,5 @@ I repeated the basics of brunching, committing and collaboration.
 
 ![course_1](task_git_html_css_intro/1.png)
 ![course_2](task_git_html_css_intro/2.png)
+
+I learned about the calculation of specificity, how to correctly form selectors, pseudoclashes.

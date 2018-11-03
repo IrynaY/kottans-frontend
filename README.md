@@ -6,20 +6,32 @@ I'm going to use  "cherry-pick", a "pull" with the --rebase, and HEAD with synta
 
 ## Linux CLI, and HTTP
 
-![course_1](task_linux_cli/1.png)
-
 In this lesson, I repeated the basic cli commands,how to change permissions for files and folders. Also, I known a lot of information about HTTP, and protocol layers interaction principle.
 
+![course_1](task_linux_cli/1.png)
+
 ## Git Collaboration
+
+I repeated the basics of brunching, committing and collaboration.
 
 ![course_1](task_git_collaboration/1.png)
 ![course_2](task_git_collaboration/2.png)
 
-I repeated the basics of brunching, committing and collaboration.
-
 ## Intro to HTML and CSS
+
+I learned about the calculation of specificity, how to correctly form selectors, pseudoclashes.
 
 ![course_1](task_git_html_css_intro/1.png)
 ![course_2](task_git_html_css_intro/2.png)
 
-I learned about the calculation of specificity, how to correctly form selectors, pseudoclashes.
+## Responsive Web Design
+
+I learned about the specificity of selectors, responsive design and patterns, media queries, and how easy it is to manipulate elements on the page using grid-based layouts.
+
+![course_1](task_responsive_web_design/1.png)
+![course_2](task_responsive_web_design/2.png)
+
+<!-- ## JS Basics
+
+![course_1](task_js_basics/1.png)
+![course_2](task_js_basics/2.png) -->

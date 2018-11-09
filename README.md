@@ -31,7 +31,9 @@ I learned about the specificity of selectors, responsive design and patterns, me
 ![course_1](task_responsive_web_design/1.png)
 ![course_2](task_responsive_web_design/2.png)
 
-<!-- ## JS Basics
+## JS Basics
+
+I learned the basics of JavaScript. I learned about the properties and methods of Array, String, Object and get acquainted with a special object -  argument.
 
 ![course_1](task_js_basics/1.png)
-![course_2](task_js_basics/2.png) -->
+![course_2](task_js_basics/2.png)

@@ -37,3 +37,8 @@ I learned the basics of JavaScript. I learned about the properties and methods o
 
 ![course_1](task_js_basics/1.png)
 ![course_2](task_js_basics/2.png)
+
+## DOM
+
+![course_1](task_js_dom/1.png)
+![course_2](task_js_dom/2.png)

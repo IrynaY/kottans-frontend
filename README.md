@@ -40,5 +40,7 @@ I learned the basics of JavaScript. I learned about the properties and methods o
 
 ## DOM
 
+I deepened my knowledge about object Document and its methods, learned how browser events work, and became acquainted with the performance.now () method.
+
 ![course_1](task_js_dom/1.png)
 ![course_2](task_js_dom/2.png)

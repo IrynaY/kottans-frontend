@@ -45,7 +45,7 @@ I deepened my knowledge about object Document and its methods, learned how brows
 ![course_1](task_js_dom/1.png)
 ![course_2](task_js_dom/2.png)
 
-<!-- [subtusk](https://github.com/kottans/frontend-2019-homeworks/pull/20) Reviewed and approved by @zonzujiro -->
+<!-- [Code base ](https://github.com/IrynaY/test) Reviewed and approved by @zonzujiro -->
 
 New for me was Element.classList property, reminded event delegation
 I will use the ability to add all the necessary elements to the page at once, and not in a cycle, also save similar items in Array
@@ -53,7 +53,7 @@ I will use the ability to add all the necessary elements to the page at once, an
 
 ## A Tiny JS World
 
-Reviewed and approved by @OleksiyRudenko
+[Code base](https://github.com/IrynaY/a-tiny-JS-world/blob/populate-world/index.js) Reviewed and approved by @OleksiyRudenko
 
 I learned the nuances of copying objects in JS, the basic principles of OOP (abstraction, inheritance, encapsulation, polymorphism) and how they work in JS .
 

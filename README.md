@@ -61,6 +61,7 @@ I learned the nuances of copying objects in JS, the basic principles of OOP (abs
 ## Object Oriented JS
 
 [Ccodewars](https://www.codewars.com/users/Murinis28)
+
 ![course_1](task_js_oop/1.png)
 
 <!-- [Code base ](https://github.com/IrynaY/frontend-nanodegree-arcade-game) Reviewed and approved by @ -->
@@ -79,4 +80,4 @@ I learned about scopes, closures, 'this' keyword, prototype chains, oop in js (f
 
 <!-- ## Memory Pair Game
 
-[Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @ --> -->
+[Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @ -->

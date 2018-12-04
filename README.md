@@ -66,3 +66,17 @@ I learned the nuances of copying objects in JS, the basic principles of OOP (abs
 <!-- [Code base ](https://github.com/IrynaY/frontend-nanodegree-arcade-game) Reviewed and approved by @ -->
 
 I learned about scopes, closures, 'this' keyword, prototype chains, oop in js (functional and prototypical classes).
+
+## OOP Exercise
+
+[Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
+<!-- https://github.com/kottans/frontend-2019-homeworks/pull/54 -->
+
+<!-- ## Offline Web Applications
+
+![course_1](task_offline_web_app/1.png) -->
+
+
+<!-- ## Memory Pair Game
+
+[Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @ --> -->

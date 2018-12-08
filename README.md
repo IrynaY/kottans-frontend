@@ -37,6 +37,7 @@ I learned the basics of JavaScript. I learned about the properties and methods o
 
 ![course_1](task_js_basics/1.png)
 ![course_2](task_js_basics/2.png)
+![course_3](task_js_basics/3.png)
 
 ## DOM
 
@@ -66,11 +67,11 @@ I learned the nuances of copying objects in JS, the basic principles of OOP (abs
 
 <!-- [Code base ](https://github.com/IrynaY/frontend-nanodegree-arcade-game) Reviewed and approved by @ -->
 
-I learned about scopes, closures, 'this' keyword, prototype chains, oop in js (functional and prototypical classes).
+I learned about scopes, closures, 'this' keyword, prototype chains,and I have learned that JS can have functional, prototypical and pseudo-class OOP styles.
 
 ## OOP Exercise
 
-In practical task i improve my knowledge about OOP js, I have learned that JS can have functional, prototypical and pseudo-class OOP styles.
+In this practical assignment, I improved my knowledge of OOP js and learned, saw the difference in use between prototypes and classes.
 
 [Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
 <!-- https://github.com/kottans/frontend-2019-homeworks/pull/54 -->

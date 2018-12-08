@@ -70,6 +70,8 @@ I learned about scopes, closures, 'this' keyword, prototype chains, oop in js (f
 
 ## OOP Exercise
 
+In practical task i improve my knowledge about OOP js, I have learned that JS can have functional, prototypical and pseudo-class OOP styles.
+
 [Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
 <!-- https://github.com/kottans/frontend-2019-homeworks/pull/54 -->
 

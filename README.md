@@ -33,7 +33,8 @@ I learned about the specificity of selectors, responsive design and patterns, me
 
 ## JS Basics
 
-I learned the basics of JavaScript. I learned about the properties and methods of Array, String, Object and get acquainted with a special object -  argument.
+I learned about the properties and methods of Array, String, Object and get acquainted with a special object -  argument.
+I began to better understand how to work with stack, queue, various sorting. New for me was working with linked lists, graphs, trees.
 
 ![course_1](task_js_basics/1.png)
 ![course_2](task_js_basics/2.png)
@@ -76,9 +77,11 @@ In this practical assignment, I improved my knowledge of OOP js and learned, saw
 [Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @OleksiyRudenko
 <!-- https://github.com/kottans/frontend-2019-homeworks/pull/54 -->
 
-<!-- ## Offline Web Applications
+## Offline Web Applications
 
-![course_1](task_offline_web_app/1.png) -->
+I learned how to describe the correct behavior of the web application offline, intercept network requests and cache data.
+For me  was new use service worker, IndexDB. I also learned more features of ChromeDevTools, network and http2 protocol.
+![course_1](task_offline_web_app/1.png)
 
 
 <!-- ## Memory Pair Game

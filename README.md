@@ -66,9 +66,11 @@ I learned the nuances of copying objects in JS, the basic principles of OOP (abs
 
 ![course_1](task_js_oop/1.png)
 
-<!-- [Code base ](https://github.com/IrynaY/frontend-nanodegree-arcade-game) Reviewed and approved by @ -->
+[Code base ](https://github.com/IrynaY/frontend-nanodegree-arcade-game) Reviewed and approved by @OleksiyRudenko
 
 I learned about scopes, closures, 'this' keyword, prototype chains,and I have learned that JS can have functional, prototypical and pseudo-class OOP styles.
+
+In the practical assignment I practiced in the OOP, I learned about the anti-patterns for the OOP. I also learned about the <canvas> element.
 
 ## OOP Exercise
 

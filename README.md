@@ -86,6 +86,18 @@ For me  was new use service worker, IndexDB. I also learned more features of Chr
 ![course_1](task_offline_web_app/1.png)
 
 
-<!-- ## Memory Pair Game
+## Memory Pair Game
 
-[Code base ](https://github.com/IrynaY/a-tiny-JS-world/blob/master/index.js) Reviewed and approved by @ -->
+[GitHub Pages](https://irynay.github.io/memory/)
+[Code base ](https://github.com/IrynaY/memory) Reviewed and approved by @zonzujiro
+
+In this practical assignment, I practiced and deep learned in some methods for working with arrays, Event and Element methods and delegation.
+New to me was work with flip images using css, destructuring.
+
+## Website Performance Optimization
+
+![Website Performance Optimization](task_website_performance/1.png)
+
+![Browser Rendering Optimization](task_website_performance/2.png)
+
+![Responsive Images](task_website_performance/3.png)

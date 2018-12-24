@@ -89,6 +89,7 @@ For me  was new use service worker, IndexDB. I also learned more features of Chr
 ## Memory Pair Game
 
 [GitHub Pages](https://irynay.github.io/memory/)
+
 [Code base ](https://github.com/IrynaY/memory) Reviewed and approved by @zonzujiro
 
 In this practical assignment, I practiced and deep learned in some methods for working with arrays, Event and Element methods and delegation.

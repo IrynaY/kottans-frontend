@@ -103,12 +103,11 @@ New to me was work with flip images using css, destructuring.
 
 ![Responsive Images](task_website_performance/3.png)
 
-
 In this task, I learned how the browser renders sites, optimizing page performance, Critical Rendering Path,  the calc () function (which calculates the css properties during detection) and also explored the possibilities of ChromeDevTools more deeply (how see the page layers), the difference between async and regular script loading on the page and how it affects the order of loading scripts.
-In the future, I will more actively use ChromeDevTools, monitoring site performance 
+In the future, I will more actively use ChromeDevTools, monitoring site performance
 
 ## Friends App
 
 [Code base ](https://github.com/IrynaY/friends-app) Reviewed and approved by @AMashoshyna
 
-It was a good experience for me, I practiced using third-party api, using various methods of Array, I learned about the window.fetch method, data--attributes.
+It was a good experience for me, I practiced using third-party api, using various methods of Array, I learned about the window.fetch method, documentFragment, data--attributes. -->

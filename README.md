@@ -110,4 +110,6 @@ In the future, I will more actively use ChromeDevTools, monitoring site performa
 
 [Code base ](https://github.com/IrynaY/friends-app) Reviewed and approved by @AMashoshyna
 
+[GitHub Pages](https://irynay.github.io/friends-app/)
+
 It was a good experience for me, I practiced using third-party api, using various methods of Array, I learned about the window.fetch method, documentFragment, data--attributes.
